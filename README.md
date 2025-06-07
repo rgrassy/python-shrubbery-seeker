@@ -2,7 +2,7 @@
 
 ## Project Description
 
-MMy project is an interactive, graphical “Cootie Catcher” fortune-telling game inspired by the classic paper toy and Monty Python and The Holy Grail, with fun sound effects.
+My project is an interactive, graphical “Cootie Catcher” fortune-telling game inspired by the classic paper toy and Monty Python and The Holy Grail, with fun sound effects.
 
 ## Technologies Used
 
