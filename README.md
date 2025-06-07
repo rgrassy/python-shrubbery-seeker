@@ -14,4 +14,4 @@ One tough part was learning how to place circles and numbers precisely inside tr
 
 ## Attribution
 
-Sound effects came from Monty Python and The Holy Grail, The Princess Bride, and clips of Chris and Mehran (taken from lectures).
+Sound effects came from Monty Python and The Holy Grail, The Princess Bride, and clips of Code in Place instructors Chris and Mehran (taken from lectures).
