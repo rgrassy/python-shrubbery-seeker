@@ -2,7 +2,7 @@
 
 ## Project Description
 
-My project is an interactive, graphical “Cootie Catcher” fortune-telling game inspired by the classic paper toy and Monty Python and The Holy Grail. Players generate random colors, make selections, and receive playful fortunes, all through a step-by-step visual interface with sound effects.
+MMy project is an interactive, graphical “Cootie Catcher” fortune-telling game inspired by the classic paper toy and Monty Python and The Holy Grail, with fun sound effects.
 
 ## Technologies Used
 
@@ -10,10 +10,8 @@ I moved development from the Code in Place IDE to PyCharm because the IDE did no
 
 ## Experience
 
-A highlight was learning how to place circles and numbers precisely inside triangles, deepening my understanding of GUI geometry. I also experimented with event-driven logic and included a rare “Holy Grail” Easter Egg fortune. Debugging outside the IDE taught me a lot about user interaction and layout.
+One tough part was learning how to place circles and numbers precisely inside triangles, which helped me better understand how to position shapes and numbers in the interface. I also worked on making the program respond to user actions like clicks and selections, and included a rare “Holy Grail” Easter Egg fortune. Debugging helped me understand user interaction and how to arrange the layout effectively.
 
 ## Attribution
 
-Sound effects came from Monty Python and The Holy Grail, The Princess Bride, and course clips of Chris and Mehran (taken from lectures).
-
-Recording a demo video was a great way to share my work beyond platform constraints, since audio libraries weren’t available in the Code in Place IDE. I would have preferred to let my section group demo it themselves.
+Sound effects came from Monty Python and The Holy Grail, The Princess Bride, and clips of Chris and Mehran (taken from lectures).
