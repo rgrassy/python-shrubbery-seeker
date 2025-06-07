@@ -10,7 +10,7 @@ I moved development from the Code in Place IDE to PyCharm because the IDE did no
 
 ## Experience
 
-One tough part was learning how to place circles and numbers precisely inside triangles, which helped me better understand how to position shapes and numbers in the interface. I also experimented with event-driven logic and included a rare “Holy Grail” Easter Egg fortune. Debugging helped me understand user interaction and how to arrange the layout effectively.
+One tough part was learning how to place circles and numbers precisely inside triangles, deepening my understanding of GUI geometry. I also experimented with event-driven logic and included a rare “Holy Grail” Easter Egg fortune. Debugging helped me understand user interaction and how to arrange the layout effectively.
 
 ## Attribution
 
